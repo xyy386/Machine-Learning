@@ -1,6 +1,8 @@
 # Task3 自助法
 > Times: 2026/3/13
+
 > Author: Yiyao Xing, Shufan Wen, Yekun Guo
+
 > Address: XPU_Maths
 
 本项目所有内容均已上传[https://github.com/xyy386/Machine-Learning](https://github.com/xyy386/Machine-Learning)，可供大家学习使用。
