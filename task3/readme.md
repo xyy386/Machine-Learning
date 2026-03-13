@@ -9,15 +9,10 @@
 
 
 ## 案例一：自助法演示
-
-[![[attachments/自助法演示.html]]](https://github.com/xyy386/Machine-Learning/blob/main/task3/自助法演示.html)
+https://github.com/xyy386/Machine-Learning/blob/main/task3/自助法演示.html
 注: 由Gemini3.1 Pro生成，并经人工校对、修改后使用。
 
 ## 案例二：自助法实验
-
-![[attachments/bootstrap_experiment.ipynb]]
-
-![[attachments/bootstrap_experiment.m]]
 
 ### 1. 实验背景与目的
 
